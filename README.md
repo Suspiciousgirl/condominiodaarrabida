@@ -1,4 +1,4 @@
-
+<!Doctype HTLM>
 <html lang="pt">
 <head>
 <meta charset="UTF-8">
