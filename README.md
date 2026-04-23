@@ -107,7 +107,7 @@ footer {
 
 <header>
     <div class="header-container">
-        <img src="img src="site/logotipo.png" alt="Logotipo" class="logo">
+       <img src="logotipo.png" alt="Logotipo" class="logo"> 
         <div class="site-title">
             <h1>Condomínio da Arrábida</h1>
             <p>www.condominiodaarrabida.pt</p>
