@@ -1,5 +1,3 @@
-# condominiodaarrabida
-Gestão de condominios Low Cost 
 <!DOCTYPE html>
 <html lang="pt">
 <head>
